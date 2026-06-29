@@ -18,9 +18,9 @@ Franchises should prioritize players under ₹5 crore with consistent
 performance history over big names with declining stats
 
 ## Charts
-![Scatter](output/scatter_price_vs_performance.png)
-![Best Value](output/best_value_players.png)
-![Overpaid](output/most_overpaid_players.png)
+![Scatter](scatter_price_vs_performance.png)
+![Best Value](best_value_players.png)
+![Overpaid](most_overpaid_players.png)
 
 ## Tools Used
 - Python (pandas, matplotlib, seaborn)
